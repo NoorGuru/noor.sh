@@ -1,5 +1,5 @@
-baseURL: "https://www.noor.guru"
-title: noor.guru
+baseURL: "https://www.noor.sh"
+title: noor.sh
 paginate: 7
 theme: PaperMod
 
@@ -96,9 +96,9 @@ params:
 
   profileMode:
     enabled: false
-    title: noor.guru
+    title: noor.sh
     imageUrl: "images/logo.svg"
-    imageTitle: noor.guru logo
+    imageTitle: noor.sh logo
     imageWidth: 300
     imageHeight: 300
     buttons:
