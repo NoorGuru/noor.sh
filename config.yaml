@@ -1,6 +1,6 @@
 baseURL: "https://www.noor.sh"
 title: noor.sh
-paginate: 7
+pagination.pagerSize: 7
 theme: PaperMod
 
 enableInlineShortcodes: true
