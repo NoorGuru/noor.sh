@@ -2,346 +2,346 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.noor.guru/technical-interview-preparation-kit/</loc>
+    <loc>https://www.noor.sh/</loc>
     <lastmod>2021-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/best-practice/</loc>
+    <loc>https://www.noor.sh/technical-interview-preparation-kit/</loc>
+    <lastmod>2021-06-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.noor.sh/tags/best-practice/</loc>
     <lastmod>2021-05-27T00:27:28+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/categories/</loc>
+    <loc>https://www.noor.sh/categories/</loc>
     <lastmod>2021-05-27T00:27:28+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/effective-java/</loc>
+    <loc>https://www.noor.sh/tags/effective-java/</loc>
     <lastmod>2021-05-27T00:27:28+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/categories/java/</loc>
+    <loc>https://www.noor.sh/categories/java/</loc>
     <lastmod>2021-05-27T00:27:28+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/series/java-best-practices/</loc>
+    <loc>https://www.noor.sh/series/java-best-practices/</loc>
     <lastmod>2021-05-27T00:27:28+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/java-bp/static-factory-methods-over-constructors/</loc>
+    <loc>https://www.noor.sh/posts/java-bp/static-factory-methods-over-constructors/</loc>
     <lastmod>2021-05-27T00:27:28+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/</loc>
+    <loc>https://www.noor.sh/posts/</loc>
     <lastmod>2021-05-27T00:27:28+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/</loc>
+    <loc>https://www.noor.sh/series/</loc>
     <lastmod>2021-05-27T00:27:28+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/series/</loc>
+    <loc>https://www.noor.sh/tags/</loc>
     <lastmod>2021-05-27T00:27:28+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/</loc>
-    <lastmod>2021-05-27T00:27:28+03:00</lastmod>
-  </url><url>
-    <loc>https://www.noor.guru/series/scalability/</loc>
+    <loc>https://www.noor.sh/series/scalability/</loc>
     <lastmod>2021-04-03T23:51:58+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/system-design/003-scale-vertically/</loc>
+    <loc>https://www.noor.sh/posts/system-design/003-scale-vertically/</loc>
     <lastmod>2021-04-03T23:51:58+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/categories/system-design/</loc>
+    <loc>https://www.noor.sh/categories/system-design/</loc>
     <lastmod>2021-04-03T23:51:58+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/concurrency/</loc>
+    <loc>https://www.noor.sh/tags/concurrency/</loc>
     <lastmod>2021-04-02T18:04:24+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/dns/</loc>
+    <loc>https://www.noor.sh/tags/dns/</loc>
     <lastmod>2021-04-02T18:04:24+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/growth/</loc>
+    <loc>https://www.noor.sh/tags/growth/</loc>
     <lastmod>2021-04-02T18:04:24+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/http/</loc>
+    <loc>https://www.noor.sh/tags/http/</loc>
     <lastmod>2021-04-02T18:04:24+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/ip/</loc>
+    <loc>https://www.noor.sh/tags/ip/</loc>
     <lastmod>2021-04-02T18:04:24+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/request/</loc>
+    <loc>https://www.noor.sh/tags/request/</loc>
     <lastmod>2021-04-02T18:04:24+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/system-design/scalability-start-small-single-server-configuration/</loc>
+    <loc>https://www.noor.sh/posts/system-design/scalability-start-small-single-server-configuration/</loc>
     <lastmod>2021-04-02T18:04:24+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/server/</loc>
+    <loc>https://www.noor.sh/tags/server/</loc>
     <lastmod>2021-04-02T18:04:24+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/service/</loc>
+    <loc>https://www.noor.sh/tags/service/</loc>
     <lastmod>2021-04-02T18:04:24+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/single-server/</loc>
+    <loc>https://www.noor.sh/tags/single-server/</loc>
     <lastmod>2021-04-02T18:04:24+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/big-data/</loc>
+    <loc>https://www.noor.sh/tags/big-data/</loc>
     <lastmod>2021-03-28T23:21:15+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/data/</loc>
+    <loc>https://www.noor.sh/tags/data/</loc>
     <lastmod>2021-03-28T23:21:15+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/scalability/</loc>
+    <loc>https://www.noor.sh/tags/scalability/</loc>
     <lastmod>2021-03-28T23:21:15+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/system-design/what-is-scalability/</loc>
+    <loc>https://www.noor.sh/posts/system-design/what-is-scalability/</loc>
     <lastmod>2021-03-28T23:21:15+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/web/</loc>
+    <loc>https://www.noor.sh/tags/web/</loc>
     <lastmod>2021-03-28T23:21:15+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/web-design/</loc>
+    <loc>https://www.noor.sh/tags/web-design/</loc>
     <lastmod>2021-03-28T23:21:15+03:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/cpp/increment-and-decrement-operators-part-3-cpp/</loc>
+    <loc>https://www.noor.sh/posts/cpp/increment-and-decrement-operators-part-3-cpp/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/categories/c&#43;&#43;/</loc>
+    <loc>https://www.noor.sh/categories/c&#43;&#43;/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/series/c&#43;&#43;-for-beginners/</loc>
+    <loc>https://www.noor.sh/series/c&#43;&#43;-for-beginners/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/cout/</loc>
+    <loc>https://www.noor.sh/tags/cout/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/cpp-course/</loc>
+    <loc>https://www.noor.sh/tags/cpp-course/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/decrement/</loc>
+    <loc>https://www.noor.sh/tags/decrement/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/increment/</loc>
+    <loc>https://www.noor.sh/tags/increment/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/lecture/</loc>
+    <loc>https://www.noor.sh/tags/lecture/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/operators/</loc>
+    <loc>https://www.noor.sh/tags/operators/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/video/</loc>
+    <loc>https://www.noor.sh/tags/video/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/cpp/increment-and-decrement-operators-part-2-cpp/</loc>
+    <loc>https://www.noor.sh/posts/cpp/increment-and-decrement-operators-part-2-cpp/</loc>
     <lastmod>2020-11-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/cpp/increment-and-decrement-operators-part-1-cpp/</loc>
+    <loc>https://www.noor.sh/posts/cpp/increment-and-decrement-operators-part-1-cpp/</loc>
     <lastmod>2020-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/cpp/putting-data-into-variables-assignment-statement-input-cin-cpp/</loc>
+    <loc>https://www.noor.sh/posts/cpp/putting-data-into-variables-assignment-statement-input-cin-cpp/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/assignment-statement/</loc>
+    <loc>https://www.noor.sh/tags/assignment-statement/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/cin/</loc>
+    <loc>https://www.noor.sh/tags/cin/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/constants/</loc>
+    <loc>https://www.noor.sh/tags/constants/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/input/</loc>
+    <loc>https://www.noor.sh/tags/input/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/variables/</loc>
+    <loc>https://www.noor.sh/tags/variables/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/cpp/named-constants-cpp/</loc>
+    <loc>https://www.noor.sh/posts/cpp/named-constants-cpp/</loc>
     <lastmod>2020-10-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/cpp/escape-sequences--part-2-cpp/</loc>
+    <loc>https://www.noor.sh/posts/cpp/escape-sequences--part-2-cpp/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/escape-sequence/</loc>
+    <loc>https://www.noor.sh/tags/escape-sequence/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/cpp/escape-sequences-part-1-cpp/</loc>
+    <loc>https://www.noor.sh/posts/cpp/escape-sequences-part-1-cpp/</loc>
     <lastmod>2020-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/cpp/string-and-programmer-defined-vs-built-in-data-types-cpp/</loc>
+    <loc>https://www.noor.sh/posts/cpp/string-and-programmer-defined-vs-built-in-data-types-cpp/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/builtin/</loc>
+    <loc>https://www.noor.sh/tags/builtin/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/char/</loc>
+    <loc>https://www.noor.sh/tags/char/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/data-types/</loc>
+    <loc>https://www.noor.sh/tags/data-types/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/first-program/</loc>
+    <loc>https://www.noor.sh/tags/first-program/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/library/</loc>
+    <loc>https://www.noor.sh/tags/library/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/string/</loc>
+    <loc>https://www.noor.sh/tags/string/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/cpp/mixed-expressions-and-type-conversion-cpp/</loc>
+    <loc>https://www.noor.sh/posts/cpp/mixed-expressions-and-type-conversion-cpp/</loc>
     <lastmod>2020-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/arithmetic-expressions/</loc>
+    <loc>https://www.noor.sh/tags/arithmetic-expressions/</loc>
     <lastmod>2020-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/casting/</loc>
+    <loc>https://www.noor.sh/tags/casting/</loc>
     <lastmod>2020-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/mixed-expressions/</loc>
+    <loc>https://www.noor.sh/tags/mixed-expressions/</loc>
     <lastmod>2020-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/static_cast/</loc>
+    <loc>https://www.noor.sh/tags/static_cast/</loc>
     <lastmod>2020-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/type-conversion/</loc>
+    <loc>https://www.noor.sh/tags/type-conversion/</loc>
     <lastmod>2020-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/cpp/operator-precedence-and-arithmetic-expressions-cpp/</loc>
+    <loc>https://www.noor.sh/posts/cpp/operator-precedence-and-arithmetic-expressions-cpp/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/arithmetic-operators/</loc>
+    <loc>https://www.noor.sh/tags/arithmetic-operators/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/operator-precedence/</loc>
+    <loc>https://www.noor.sh/tags/operator-precedence/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/cpp/arithmetic-operators-cpp/</loc>
+    <loc>https://www.noor.sh/posts/cpp/arithmetic-operators-cpp/</loc>
     <lastmod>2020-10-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/cpp/variables-cpp/</loc>
+    <loc>https://www.noor.sh/posts/cpp/variables-cpp/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/cpp/tokens-program-components-naming-rules-cpp/</loc>
+    <loc>https://www.noor.sh/posts/cpp/tokens-program-components-naming-rules-cpp/</loc>
     <lastmod>2020-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/identifiers/</loc>
+    <loc>https://www.noor.sh/tags/identifiers/</loc>
     <lastmod>2020-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/program-components/</loc>
+    <loc>https://www.noor.sh/tags/program-components/</loc>
     <lastmod>2020-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/reserved-words/</loc>
+    <loc>https://www.noor.sh/tags/reserved-words/</loc>
     <lastmod>2020-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/special-symbols/</loc>
+    <loc>https://www.noor.sh/tags/special-symbols/</loc>
     <lastmod>2020-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/tokens/</loc>
+    <loc>https://www.noor.sh/tags/tokens/</loc>
     <lastmod>2020-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/design-principles/</loc>
+    <loc>https://www.noor.sh/tags/design-principles/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/series/solid-design-principles/</loc>
+    <loc>https://www.noor.sh/series/solid-design-principles/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/solid/java/single-responsibility-principle/</loc>
+    <loc>https://www.noor.sh/posts/solid/java/single-responsibility-principle/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/fp/</loc>
+    <loc>https://www.noor.sh/tags/fp/</loc>
     <lastmod>2018-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/functional-programming/</loc>
+    <loc>https://www.noor.sh/tags/functional-programming/</loc>
     <lastmod>2018-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/oop/</loc>
+    <loc>https://www.noor.sh/tags/oop/</loc>
     <lastmod>2018-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/categories/scala/</loc>
+    <loc>https://www.noor.sh/categories/scala/</loc>
     <lastmod>2018-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/scala/why-scala-and-functional-programming/</loc>
+    <loc>https://www.noor.sh/posts/scala/why-scala-and-functional-programming/</loc>
     <lastmod>2018-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/scala-language/</loc>
+    <loc>https://www.noor.sh/tags/scala-language/</loc>
     <lastmod>2018-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/event-driven-programming/</loc>
+    <loc>https://www.noor.sh/tags/event-driven-programming/</loc>
     <lastmod>2015-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/example/</loc>
+    <loc>https://www.noor.sh/tags/example/</loc>
     <lastmod>2015-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/function/</loc>
+    <loc>https://www.noor.sh/tags/function/</loc>
     <lastmod>2015-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/graphical-user-interface/</loc>
+    <loc>https://www.noor.sh/tags/graphical-user-interface/</loc>
     <lastmod>2015-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/matlab/gui-graphical-user-interface-matlab/</loc>
+    <loc>https://www.noor.sh/posts/matlab/gui-graphical-user-interface-matlab/</loc>
     <lastmod>2015-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/gui/</loc>
+    <loc>https://www.noor.sh/tags/gui/</loc>
     <lastmod>2015-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/categories/matlab/</loc>
+    <loc>https://www.noor.sh/categories/matlab/</loc>
     <lastmod>2015-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/series/matlab-lectures/</loc>
+    <loc>https://www.noor.sh/series/matlab-lectures/</loc>
     <lastmod>2015-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/debug/</loc>
+    <loc>https://www.noor.sh/tags/debug/</loc>
     <lastmod>2015-03-28T23:59:59+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/documentation/</loc>
+    <loc>https://www.noor.sh/tags/documentation/</loc>
     <lastmod>2015-03-28T23:59:59+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/find/</loc>
+    <loc>https://www.noor.sh/tags/find/</loc>
     <lastmod>2015-03-28T23:59:59+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/for/</loc>
+    <loc>https://www.noor.sh/tags/for/</loc>
     <lastmod>2015-03-28T23:59:59+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/if/</loc>
+    <loc>https://www.noor.sh/tags/if/</loc>
     <lastmod>2015-03-28T23:59:59+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/logical-operators/</loc>
+    <loc>https://www.noor.sh/tags/logical-operators/</loc>
     <lastmod>2015-03-28T23:59:59+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/loops/</loc>
+    <loc>https://www.noor.sh/tags/loops/</loc>
     <lastmod>2015-03-28T23:59:59+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/matlab/programming-selection-loops-debug-matlab/</loc>
+    <loc>https://www.noor.sh/posts/matlab/programming-selection-loops-debug-matlab/</loc>
     <lastmod>2015-03-28T23:59:59+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/pseudo-code/</loc>
+    <loc>https://www.noor.sh/tags/pseudo-code/</loc>
     <lastmod>2015-03-28T23:59:59+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/relational-operators/</loc>
+    <loc>https://www.noor.sh/tags/relational-operators/</loc>
     <lastmod>2015-03-28T23:59:59+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/selection/</loc>
+    <loc>https://www.noor.sh/tags/selection/</loc>
     <lastmod>2015-03-28T23:59:59+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/vectorization/</loc>
+    <loc>https://www.noor.sh/tags/vectorization/</loc>
     <lastmod>2015-03-28T23:59:59+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/while/</loc>
+    <loc>https://www.noor.sh/tags/while/</loc>
     <lastmod>2015-03-28T23:59:59+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/matlab/functions-and-script-files-matlab/</loc>
+    <loc>https://www.noor.sh/posts/matlab/functions-and-script-files-matlab/</loc>
     <lastmod>2015-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/tags/script/</loc>
+    <loc>https://www.noor.sh/tags/script/</loc>
     <lastmod>2015-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/cpp/data-types-cpp/</loc>
+    <loc>https://www.noor.sh/posts/cpp/data-types-cpp/</loc>
     <lastmod>2014-03-12T23:59:59+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/cpp/first-program-in-cpp-extra/</loc>
+    <loc>https://www.noor.sh/posts/cpp/first-program-in-cpp-extra/</loc>
     <lastmod>2014-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/posts/cpp/first-program-in-cpp/</loc>
+    <loc>https://www.noor.sh/posts/cpp/first-program-in-cpp/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/cpp-resources/</loc>
+    <loc>https://www.noor.sh/cpp-resources/</loc>
     <lastmod>2013-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.noor.guru/cv/</loc>
+    <loc>https://www.noor.sh/cv/</loc>
   </url><url>
-    <loc>https://www.noor.guru/search/</loc>
+    <loc>https://www.noor.sh/search/</loc>
   </url><url>
-    <loc>https://www.noor.guru/timeline/</loc>
+    <loc>https://www.noor.sh/timeline/</loc>
   </url>
 </urlset>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on noor.guru</title>
-    <link>https://www.noor.guru/posts/</link>
-    <description>Recent content in Posts on noor.guru</description>
+    <title>Posts on noor.sh</title>
+    <link>https://www.noor.sh/posts/</link>
+    <description>Recent content in Posts on noor.sh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 May 2021 00:27:28 +0300</lastBuildDate><atom:link href="https://www.noor.guru/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 May 2021 00:27:28 +0300</lastBuildDate><atom:link href="https://www.noor.sh/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java Best Practices 01 | Static Factory Methods Over Constructors</title>
-      <link>https://www.noor.guru/posts/java-bp/static-factory-methods-over-constructors/</link>
+      <link>https://www.noor.sh/posts/java-bp/static-factory-methods-over-constructors/</link>
       <pubDate>Thu, 27 May 2021 00:27:28 +0300</pubDate>
       
-      <guid>https://www.noor.guru/posts/java-bp/static-factory-methods-over-constructors/</guid>
+      <guid>https://www.noor.sh/posts/java-bp/static-factory-methods-over-constructors/</guid>
       <description>Static Factory Methods Consider using Static Factory Methods Instead of Constructors
 The static factory method is a method that returns an instance of the class.
 Example In this example, we will build some HTML elements using Java. Here is the base class.
@@ -21,64 +21,64 @@ Example In this example, we will build some HTML elements using Java. Here is th
     
     <item>
       <title>Scalability 03 | Scale Vertically (Vertical Scaling)</title>
-      <link>https://www.noor.guru/posts/system-design/003-scale-vertically/</link>
+      <link>https://www.noor.sh/posts/system-design/003-scale-vertically/</link>
       <pubDate>Sat, 03 Apr 2021 23:51:58 +0300</pubDate>
       
-      <guid>https://www.noor.guru/posts/system-design/003-scale-vertically/</guid>
+      <guid>https://www.noor.sh/posts/system-design/003-scale-vertically/</guid>
       <description>Once your application (website) reaches the limits of your server, you should decide how to scale. In this post, we will focus on Vertical Scaling only.</description>
     </item>
     
     <item>
       <title>Scalability 02 | Start Small (Single-Server Configuration)</title>
-      <link>https://www.noor.guru/posts/system-design/scalability-start-small-single-server-configuration/</link>
+      <link>https://www.noor.sh/posts/system-design/scalability-start-small-single-server-configuration/</link>
       <pubDate>Fri, 02 Apr 2021 18:04:24 +0300</pubDate>
       
-      <guid>https://www.noor.guru/posts/system-design/scalability-start-small-single-server-configuration/</guid>
+      <guid>https://www.noor.sh/posts/system-design/scalability-start-small-single-server-configuration/</guid>
       <description>In this post, we will take a step back, and discuss how could we start small and simple with our website before considering any scalability options, and we will discuss when should we start considering them</description>
     </item>
     
     <item>
       <title>Scalability 01 | What Is Scalability (Scalability in a Nutshell)?</title>
-      <link>https://www.noor.guru/posts/system-design/what-is-scalability/</link>
+      <link>https://www.noor.sh/posts/system-design/what-is-scalability/</link>
       <pubDate>Sun, 28 Mar 2021 23:21:15 +0300</pubDate>
       
-      <guid>https://www.noor.guru/posts/system-design/what-is-scalability/</guid>
+      <guid>https://www.noor.sh/posts/system-design/what-is-scalability/</guid>
       <description>Scalability usually means the ability to handle more users, clients, data transactions, or requests without affecting the user experience.</description>
     </item>
     
     <item>
       <title>1-16 Increment and Decrement Operators in C&#43;&#43; (Part 3) | معاملات الزيادة والنقصان (الجزء الثالث)</title>
-      <link>https://www.noor.guru/posts/cpp/increment-and-decrement-operators-part-3-cpp/</link>
+      <link>https://www.noor.sh/posts/cpp/increment-and-decrement-operators-part-3-cpp/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.noor.guru/posts/cpp/increment-and-decrement-operators-part-3-cpp/</guid>
+      <guid>https://www.noor.sh/posts/cpp/increment-and-decrement-operators-part-3-cpp/</guid>
       <description>في هذا الدّرس سنتعرّف بشكل أكبر على معاملات الزيادة والنقصان في لغة سي بلس بلس. In this lecture, we will dig deeper with Increment and Decrements Operators in C++ using multiple examples.</description>
     </item>
     
     <item>
       <title>1-15 Increment and Decrement Operators in C&#43;&#43; (Part 2) | معاملات الزيادة والنقصان (الجزء الثاني)</title>
-      <link>https://www.noor.guru/posts/cpp/increment-and-decrement-operators-part-2-cpp/</link>
+      <link>https://www.noor.sh/posts/cpp/increment-and-decrement-operators-part-2-cpp/</link>
       <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.noor.guru/posts/cpp/increment-and-decrement-operators-part-2-cpp/</guid>
+      <guid>https://www.noor.sh/posts/cpp/increment-and-decrement-operators-part-2-cpp/</guid>
       <description>في هذا الدّرس سنتعرّف بشكل أكبر على معاملات الزيادة والنقصان في لغة سي بلس بلس. In this lecture, we will dig deeper with Increment and Decrements Operators in C++ using multiple examples.</description>
     </item>
     
     <item>
       <title>1-14 Increment and Decrement Operators in C&#43;&#43; (Part 1) | معاملات الزيادة والنقصان (الجزء الأول)</title>
-      <link>https://www.noor.guru/posts/cpp/increment-and-decrement-operators-part-1-cpp/</link>
+      <link>https://www.noor.sh/posts/cpp/increment-and-decrement-operators-part-1-cpp/</link>
       <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.noor.guru/posts/cpp/increment-and-decrement-operators-part-1-cpp/</guid>
+      <guid>https://www.noor.sh/posts/cpp/increment-and-decrement-operators-part-1-cpp/</guid>
       <description>في هذا الدّرس سنتعرّف على معاملات الزيادة والنقصان في لغة سي بلس بلس. In this lecture, we will learn about Increment and Decrements Operators in C++ using multiple examples.</description>
     </item>
     
     <item>
       <title>1-13 Putting Data into Variables (Assignment Statement &amp; Input - cin) | تعيين قيم للمتغيرات</title>
-      <link>https://www.noor.guru/posts/cpp/putting-data-into-variables-assignment-statement-input-cin-cpp/</link>
+      <link>https://www.noor.sh/posts/cpp/putting-data-into-variables-assignment-statement-input-cin-cpp/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.noor.guru/posts/cpp/putting-data-into-variables-assignment-statement-input-cin-cpp/</guid>
+      <guid>https://www.noor.sh/posts/cpp/putting-data-into-variables-assignment-statement-input-cin-cpp/</guid>
       <description>في هذا الدّرس سنتعرّف على طرق تعيين وإعطاء قيم للمتغيرات في لغة سي بلس بلس:
 استخدام جملة التّعيين في لغة سي بلس بلس استخدام جملة \ دالّة \ اقتران الإدخال في لغة سي بلس بلس بالإضافة إلى:
 مراجعة سريعة للمتغيرات لماذا نستخدم هذه الطرق لتعيين قيم للمتغيرات في لغة سي بلس بلس باستخدام الكثير من الأمثلة
@@ -88,10 +88,10 @@ Using C++ Assignment Statement Use Input/Read Statement in C++ (cin) In addition
     
     <item>
       <title>1-12 Named Constants in C&#43;&#43; | الثوابت في لغة سي بلس بلس</title>
-      <link>https://www.noor.guru/posts/cpp/named-constants-cpp/</link>
+      <link>https://www.noor.sh/posts/cpp/named-constants-cpp/</link>
       <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.noor.guru/posts/cpp/named-constants-cpp/</guid>
+      <guid>https://www.noor.sh/posts/cpp/named-constants-cpp/</guid>
       <description>في هذا الدّرس سنتعرّف على الثابت/الثوابت في لغة سي بلس بلس:
 الثوابت لماذا نستخدم الثوابت في لغة السي بلس بلس؟ آهمية الثوابت في لغة سي بلس بلس كيف نعرف ثابت في لغة سي بلس بلس؟ آمثلة على الثوابت في لغة سي بلس بلس بالإضافة إلى:
 مراجعة سريعة للمتغيرات مقارنة الثوابت والمتغيرات باستخدام الكثير من الأمثلة
@@ -101,28 +101,28 @@ Named Constants Why to use a constant in C++?</description>
     
     <item>
       <title>1-11 Escape Sequences in C&#43;&#43; (Part 2)</title>
-      <link>https://www.noor.guru/posts/cpp/escape-sequences--part-2-cpp/</link>
+      <link>https://www.noor.sh/posts/cpp/escape-sequences--part-2-cpp/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.noor.guru/posts/cpp/escape-sequences--part-2-cpp/</guid>
+      <guid>https://www.noor.sh/posts/cpp/escape-sequences--part-2-cpp/</guid>
       <description>في هذا الدّرس سنتعرّف على موضوع ال Escape Sequences في لغة سي بلس بلس - الجزء الثاني باستخدام الكثير من الأمثلة. In this lecture, we will learn about Escape Sequences in C++ - Part 2 by using a lot of examples.</description>
     </item>
     
     <item>
       <title>1-10 Escape Sequences in C&#43;&#43; (Part 1)</title>
-      <link>https://www.noor.guru/posts/cpp/escape-sequences-part-1-cpp/</link>
+      <link>https://www.noor.sh/posts/cpp/escape-sequences-part-1-cpp/</link>
       <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.noor.guru/posts/cpp/escape-sequences-part-1-cpp/</guid>
+      <guid>https://www.noor.sh/posts/cpp/escape-sequences-part-1-cpp/</guid>
       <description>في هذا الدّرس سنتعرّف على موضوع ال Escape Sequences في لغة سي بلس بلس - الجزء الأول باستخدام الكثير من الأمثلة. In this lecture, we will learn about Escape Sequences in C++ - Part 1 by using a lot of examples.</description>
     </item>
     
     <item>
       <title>1-9 String and Programmer Defined VS Built-In Data Types | النصوص والمكتبات والأنواع المضمنة</title>
-      <link>https://www.noor.guru/posts/cpp/string-and-programmer-defined-vs-built-in-data-types-cpp/</link>
+      <link>https://www.noor.sh/posts/cpp/string-and-programmer-defined-vs-built-in-data-types-cpp/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.noor.guru/posts/cpp/string-and-programmer-defined-vs-built-in-data-types-cpp/</guid>
+      <guid>https://www.noor.sh/posts/cpp/string-and-programmer-defined-vs-built-in-data-types-cpp/</guid>
       <description>في هذا الدّرس سنتعرّف على كيفية تمثيل النصوص، وأنواع البيانات المتوفرة في المكتبة القياسية والمتضمنة افتراضيًا وكيفية استخدام مكتبات أخرى في لغة سي بلس بلس:
 string (Strings) لتمثيل البيانات النصية المكتبات الخارجية أو الأنواع الخاصة الأنواع المضمنة افتراضيًا كيفيّة استخدام النّصوص في سي بلس بلس بالإضافة إلى:
 مراجعة الصيغة العامة لكتابة برنامج بلغة سي بلس بلس مراجعة الحروف النصية char/characters مراجعة المتغيرات variables بشكل سريع باستخدام الكثير من الأمثلة.</description>
@@ -130,29 +130,29 @@ string (Strings) لتمثيل البيانات النصية المكتبات ا�
     
     <item>
       <title>1-8 Mixed Expressions &amp; Type Conversion (Casting) | التعابير المختلطة وتحويل الأنواع</title>
-      <link>https://www.noor.guru/posts/cpp/mixed-expressions-and-type-conversion-cpp/</link>
+      <link>https://www.noor.sh/posts/cpp/mixed-expressions-and-type-conversion-cpp/</link>
       <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.noor.guru/posts/cpp/mixed-expressions-and-type-conversion-cpp/</guid>
+      <guid>https://www.noor.sh/posts/cpp/mixed-expressions-and-type-conversion-cpp/</guid>
       <description>في هذا الدّرس سنتعرّف على التعابير الحسابية المختلطة وتحويل الأنواع في لغة سي بلس بلس باستخدام الكثير من الأمثلة. In this lecture, we will learn about mixed (mathematical) expressions, like:
 int (op) int double (op) double double (op) int int (op) double And type casting with static_cast, by understanding a lot of examples.</description>
     </item>
     
     <item>
       <title>1-7 Operator Precedence and Arithmetic Expressions | أولويات العمليات والتعابير الحسابية</title>
-      <link>https://www.noor.guru/posts/cpp/operator-precedence-and-arithmetic-expressions-cpp/</link>
+      <link>https://www.noor.sh/posts/cpp/operator-precedence-and-arithmetic-expressions-cpp/</link>
       <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.noor.guru/posts/cpp/operator-precedence-and-arithmetic-expressions-cpp/</guid>
+      <guid>https://www.noor.sh/posts/cpp/operator-precedence-and-arithmetic-expressions-cpp/</guid>
       <description>في هذا الدرس سنتعرف على أولويات العمليات الحسابية، التعابير الحسابية، وأنواع المعاملات الأحادية والثنائية في لغة سي بلس بلس باستخدام الكثير من الأمثلة. In this lecture, we will learn about arithmetic operations and operators, mathematical expressions, operator precedence, binary operators, and Unary Operators in C++, using multiple examples.</description>
     </item>
     
     <item>
       <title>1-6 Arithmetic Operators in C&#43;&#43; | المعاملات والعمليّات الحسابيّة في لغة سي بلس بلس</title>
-      <link>https://www.noor.guru/posts/cpp/arithmetic-operators-cpp/</link>
+      <link>https://www.noor.sh/posts/cpp/arithmetic-operators-cpp/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.noor.guru/posts/cpp/arithmetic-operators-cpp/</guid>
+      <guid>https://www.noor.sh/posts/cpp/arithmetic-operators-cpp/</guid>
       <description>في هذا الدّرس سنتعرّف على المعاملات والعمليات الحسابية في لغة سي بلس بلس:
 الجمع الطرح والأعداد السالبة الضرب القسمة باقي القسمة أنواع المعاملات: الأحادية والثنائية باستخدام الكثير من الأمثلة.
 In this lecture, we will learn about:
@@ -161,19 +161,19 @@ Addition + Subtraction and negative numbers - Multiplication * Division / Mod, M
     
     <item>
       <title>1-5 Variables in C&#43;&#43; | المتغيّرات في لغة سي بلس بلس</title>
-      <link>https://www.noor.guru/posts/cpp/variables-cpp/</link>
+      <link>https://www.noor.sh/posts/cpp/variables-cpp/</link>
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.noor.guru/posts/cpp/variables-cpp/</guid>
+      <guid>https://www.noor.sh/posts/cpp/variables-cpp/</guid>
       <description>في هذا الدّرس سنتعرّف على المتغيّرات في لغة سي بلس بلس وكيفية استخدامها. In this lecture, we will learn about variables and how to use them in C++.</description>
     </item>
     
     <item>
       <title>1-4 Tokens (Program Components) and Naming Rules in C&#43;&#43; | المكوّنات الأساسيّة للبرنامج وقواعد التسمية </title>
-      <link>https://www.noor.guru/posts/cpp/tokens-program-components-naming-rules-cpp/</link>
+      <link>https://www.noor.sh/posts/cpp/tokens-program-components-naming-rules-cpp/</link>
       <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.noor.guru/posts/cpp/tokens-program-components-naming-rules-cpp/</guid>
+      <guid>https://www.noor.sh/posts/cpp/tokens-program-components-naming-rules-cpp/</guid>
       <description>في هذا الدّرس سنتعرّف على المكوّنات الأساسيّة لأي برنامج في لغة سي بلس بلس:
 الرموز الخاصة الكلمات المحجوزة الأسماء \ المعرّفات بالإضافة إلى قواعد التّسمية في لغة سي بلس بلس.
 In this lecture, we will learn about essential program components (tokens) in C++:
@@ -182,10 +182,10 @@ Special Symbols Reserved Words (Keywords) Identifiers (names) In addition to nam
     
     <item>
       <title>Solid Design Principles with Java – #01 Single Responsibility Principle (SRP)</title>
-      <link>https://www.noor.guru/posts/solid/java/single-responsibility-principle/</link>
+      <link>https://www.noor.sh/posts/solid/java/single-responsibility-principle/</link>
       <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.noor.guru/posts/solid/java/single-responsibility-principle/</guid>
+      <guid>https://www.noor.sh/posts/solid/java/single-responsibility-principle/</guid>
       <description>Solid Design Principles with Java Series Welcome to this new series of solid design principles with Java programming language.
 In this series we will focus on the most important design principles, introduce them with minimal efforts on both us and the reader, this series should be followed by a more advanced one on design patterns with Java later on – stay tuned!
 Single Responsibility Principle (SRP) On this first lesson, we will discuss the Separation of Concerns (SoC) aka Single Responsibility Principle (SRP).</description>
@@ -193,65 +193,65 @@ Single Responsibility Principle (SRP) On this first lesson, we will discuss the 
     
     <item>
       <title>Scala and Functional Programming, Why?</title>
-      <link>https://www.noor.guru/posts/scala/why-scala-and-functional-programming/</link>
+      <link>https://www.noor.sh/posts/scala/why-scala-and-functional-programming/</link>
       <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.noor.guru/posts/scala/why-scala-and-functional-programming/</guid>
+      <guid>https://www.noor.sh/posts/scala/why-scala-and-functional-programming/</guid>
       <description>What is Scala? “Scala combines object-oriented and functional programming in one concise, high-level language. Scala’s static types help avoid bugs in complex applications, and its JVM and JavaScript runtimes let you build high-performance systems with easy access to huge ecosystems of libraries”.
 This is how Scala official website introduces the language to the world. In this blog, I will try to make this introduction some way simpler with a taste of real Scala examples, note that I’m assuming a general knowledge of other object-oriented languages like Java or C# but no functional programming knowledge is ok.</description>
     </item>
     
     <item>
       <title>Graphical User Interface (GUI) Programming Example (in Arabic)</title>
-      <link>https://www.noor.guru/posts/matlab/gui-graphical-user-interface-matlab/</link>
+      <link>https://www.noor.sh/posts/matlab/gui-graphical-user-interface-matlab/</link>
       <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.noor.guru/posts/matlab/gui-graphical-user-interface-matlab/</guid>
+      <guid>https://www.noor.sh/posts/matlab/gui-graphical-user-interface-matlab/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Programming with Matlab, Selection, Loops and Debug (in Arabic)</title>
-      <link>https://www.noor.guru/posts/matlab/programming-selection-loops-debug-matlab/</link>
+      <link>https://www.noor.sh/posts/matlab/programming-selection-loops-debug-matlab/</link>
       <pubDate>Sat, 28 Mar 2015 23:59:59 +0000</pubDate>
       
-      <guid>https://www.noor.guru/posts/matlab/programming-selection-loops-debug-matlab/</guid>
+      <guid>https://www.noor.sh/posts/matlab/programming-selection-loops-debug-matlab/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Functions and Script Files (in Arabic)</title>
-      <link>https://www.noor.guru/posts/matlab/functions-and-script-files-matlab/</link>
+      <link>https://www.noor.sh/posts/matlab/functions-and-script-files-matlab/</link>
       <pubDate>Sat, 28 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.noor.guru/posts/matlab/functions-and-script-files-matlab/</guid>
+      <guid>https://www.noor.sh/posts/matlab/functions-and-script-files-matlab/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>1-3 Data Types in C&#43;&#43; | أنواع البيانات في لغة سي بلس بلس</title>
-      <link>https://www.noor.guru/posts/cpp/data-types-cpp/</link>
+      <link>https://www.noor.sh/posts/cpp/data-types-cpp/</link>
       <pubDate>Wed, 12 Mar 2014 23:59:59 +0000</pubDate>
       
-      <guid>https://www.noor.guru/posts/cpp/data-types-cpp/</guid>
+      <guid>https://www.noor.sh/posts/cpp/data-types-cpp/</guid>
       <description>في هذا الدرس سنتعرّف على أنواع البيانات المختلفة في لغة سي بلس بلس مثل الأرقام الصحيحة، الحروف، القيم المنطقية، الأعداد العشريّة، وغيرها. بالإضافة إلى تعلّم كيفيّة استخدام هذه الأنواع. In this lecture, we will learn about int, char, bool, double float and other data types, while learning how and why to use them.</description>
     </item>
     
     <item>
       <title>1-2 Your First Program - Alternative Ways | صيغ أخرى (بديلة) لكتابة برنامج بلغة سي بلس بلس</title>
-      <link>https://www.noor.guru/posts/cpp/first-program-in-cpp-extra/</link>
+      <link>https://www.noor.sh/posts/cpp/first-program-in-cpp-extra/</link>
       <pubDate>Wed, 12 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.noor.guru/posts/cpp/first-program-in-cpp-extra/</guid>
+      <guid>https://www.noor.sh/posts/cpp/first-program-in-cpp-extra/</guid>
       <description>في هذا الدرس سنتعلّم بعض الطرق الأخرى لكتابة برنامجك باستخدام لغة سي بلس بلس. In this lecture, we will learn some alternative ways t write our C++ programs.</description>
     </item>
     
     <item>
       <title>1-1 Your First Program in C&#43;&#43; | الصيغة العامة لكتابة برنامج بلغة سي بلس بلس</title>
-      <link>https://www.noor.guru/posts/cpp/first-program-in-cpp/</link>
+      <link>https://www.noor.sh/posts/cpp/first-program-in-cpp/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.noor.guru/posts/cpp/first-program-in-cpp/</guid>
+      <guid>https://www.noor.sh/posts/cpp/first-program-in-cpp/</guid>
       <description>في هذا الدرس سنتعرّف على كيفيّة كتابة أول برنامج في لغة سي بلس بلس، وشرح مبسّط للأجزاء الثابتة في أي برنامج. In this lecture, we will dive into how to write our first program in C++, and we will explain some common parts/snippets of any C++ program.</description>
     </item>
     

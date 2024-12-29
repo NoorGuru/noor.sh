@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Data Types on noor.guru</title>
-    <link>https://www.noor.guru/tags/data-types/</link>
-    <description>Recent content in Data Types on noor.guru</description>
+    <title>Data Types on noor.sh</title>
+    <link>https://www.noor.sh/tags/data-types/</link>
+    <description>Recent content in Data Types on noor.sh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/tags/data-types/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.sh/tags/data-types/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1-9 String and Programmer Defined VS Built-In Data Types | النصوص والمكتبات والأنواع المضمنة</title>
-      <link>https://www.noor.guru/posts/cpp/string-and-programmer-defined-vs-built-in-data-types-cpp/</link>
+      <link>https://www.noor.sh/posts/cpp/string-and-programmer-defined-vs-built-in-data-types-cpp/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.noor.guru/posts/cpp/string-and-programmer-defined-vs-built-in-data-types-cpp/</guid>
+      <guid>https://www.noor.sh/posts/cpp/string-and-programmer-defined-vs-built-in-data-types-cpp/</guid>
       <description>في هذا الدّرس سنتعرّف على كيفية تمثيل النصوص، وأنواع البيانات المتوفرة في المكتبة القياسية والمتضمنة افتراضيًا وكيفية استخدام مكتبات أخرى في لغة سي بلس بلس:
 string (Strings) لتمثيل البيانات النصية المكتبات الخارجية أو الأنواع الخاصة الأنواع المضمنة افتراضيًا كيفيّة استخدام النّصوص في سي بلس بلس بالإضافة إلى:
 مراجعة الصيغة العامة لكتابة برنامج بلغة سي بلس بلس مراجعة الحروف النصية char/characters مراجعة المتغيرات variables بشكل سريع باستخدام الكثير من الأمثلة.</description>
@@ -20,10 +20,10 @@ string (Strings) لتمثيل البيانات النصية المكتبات ا�
     
     <item>
       <title>1-3 Data Types in C&#43;&#43; | أنواع البيانات في لغة سي بلس بلس</title>
-      <link>https://www.noor.guru/posts/cpp/data-types-cpp/</link>
+      <link>https://www.noor.sh/posts/cpp/data-types-cpp/</link>
       <pubDate>Wed, 12 Mar 2014 23:59:59 +0000</pubDate>
       
-      <guid>https://www.noor.guru/posts/cpp/data-types-cpp/</guid>
+      <guid>https://www.noor.sh/posts/cpp/data-types-cpp/</guid>
       <description>في هذا الدرس سنتعرّف على أنواع البيانات المختلفة في لغة سي بلس بلس مثل الأرقام الصحيحة، الحروف، القيم المنطقية، الأعداد العشريّة، وغيرها. بالإضافة إلى تعلّم كيفيّة استخدام هذه الأنواع. In this lecture, we will learn about int, char, bool, double float and other data types, while learning how and why to use them.</description>
     </item>
     

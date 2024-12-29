@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Variables on noor.guru</title>
-    <link>https://www.noor.guru/tags/variables/</link>
-    <description>Recent content in Variables on noor.guru</description>
+    <title>Variables on noor.sh</title>
+    <link>https://www.noor.sh/tags/variables/</link>
+    <description>Recent content in Variables on noor.sh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.guru/tags/variables/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.noor.sh/tags/variables/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1-13 Putting Data into Variables (Assignment Statement &amp; Input - cin) | تعيين قيم للمتغيرات</title>
-      <link>https://www.noor.guru/posts/cpp/putting-data-into-variables-assignment-statement-input-cin-cpp/</link>
+      <link>https://www.noor.sh/posts/cpp/putting-data-into-variables-assignment-statement-input-cin-cpp/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.noor.guru/posts/cpp/putting-data-into-variables-assignment-statement-input-cin-cpp/</guid>
+      <guid>https://www.noor.sh/posts/cpp/putting-data-into-variables-assignment-statement-input-cin-cpp/</guid>
       <description>في هذا الدّرس سنتعرّف على طرق تعيين وإعطاء قيم للمتغيرات في لغة سي بلس بلس:
 استخدام جملة التّعيين في لغة سي بلس بلس استخدام جملة \ دالّة \ اقتران الإدخال في لغة سي بلس بلس بالإضافة إلى:
 مراجعة سريعة للمتغيرات لماذا نستخدم هذه الطرق لتعيين قيم للمتغيرات في لغة سي بلس بلس باستخدام الكثير من الأمثلة
@@ -22,10 +22,10 @@ Using C++ Assignment Statement Use Input/Read Statement in C++ (cin) In addition
     
     <item>
       <title>1-12 Named Constants in C&#43;&#43; | الثوابت في لغة سي بلس بلس</title>
-      <link>https://www.noor.guru/posts/cpp/named-constants-cpp/</link>
+      <link>https://www.noor.sh/posts/cpp/named-constants-cpp/</link>
       <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.noor.guru/posts/cpp/named-constants-cpp/</guid>
+      <guid>https://www.noor.sh/posts/cpp/named-constants-cpp/</guid>
       <description>في هذا الدّرس سنتعرّف على الثابت/الثوابت في لغة سي بلس بلس:
 الثوابت لماذا نستخدم الثوابت في لغة السي بلس بلس؟ آهمية الثوابت في لغة سي بلس بلس كيف نعرف ثابت في لغة سي بلس بلس؟ آمثلة على الثوابت في لغة سي بلس بلس بالإضافة إلى:
 مراجعة سريعة للمتغيرات مقارنة الثوابت والمتغيرات باستخدام الكثير من الأمثلة
@@ -35,10 +35,10 @@ Named Constants Why to use a constant in C++?</description>
     
     <item>
       <title>1-9 String and Programmer Defined VS Built-In Data Types | النصوص والمكتبات والأنواع المضمنة</title>
-      <link>https://www.noor.guru/posts/cpp/string-and-programmer-defined-vs-built-in-data-types-cpp/</link>
+      <link>https://www.noor.sh/posts/cpp/string-and-programmer-defined-vs-built-in-data-types-cpp/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.noor.guru/posts/cpp/string-and-programmer-defined-vs-built-in-data-types-cpp/</guid>
+      <guid>https://www.noor.sh/posts/cpp/string-and-programmer-defined-vs-built-in-data-types-cpp/</guid>
       <description>في هذا الدّرس سنتعرّف على كيفية تمثيل النصوص، وأنواع البيانات المتوفرة في المكتبة القياسية والمتضمنة افتراضيًا وكيفية استخدام مكتبات أخرى في لغة سي بلس بلس:
 string (Strings) لتمثيل البيانات النصية المكتبات الخارجية أو الأنواع الخاصة الأنواع المضمنة افتراضيًا كيفيّة استخدام النّصوص في سي بلس بلس بالإضافة إلى:
 مراجعة الصيغة العامة لكتابة برنامج بلغة سي بلس بلس مراجعة الحروف النصية char/characters مراجعة المتغيرات variables بشكل سريع باستخدام الكثير من الأمثلة.</description>
@@ -46,10 +46,10 @@ string (Strings) لتمثيل البيانات النصية المكتبات ا�
     
     <item>
       <title>1-5 Variables in C&#43;&#43; | المتغيّرات في لغة سي بلس بلس</title>
-      <link>https://www.noor.guru/posts/cpp/variables-cpp/</link>
+      <link>https://www.noor.sh/posts/cpp/variables-cpp/</link>
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.noor.guru/posts/cpp/variables-cpp/</guid>
+      <guid>https://www.noor.sh/posts/cpp/variables-cpp/</guid>
       <description>في هذا الدّرس سنتعرّف على المتغيّرات في لغة سي بلس بلس وكيفية استخدامها. In this lecture, we will learn about variables and how to use them in C++.</description>
     </item>
     
