@@ -4,7 +4,7 @@ draft: false
 showToc: false
 ---
 
-> **If you cannot see the CV below, please [click here](https://go.noor.guru/cv).**
+> **If you cannot see the CV below, please [click here](https://go.noor.sh/cv).**
 
 {{< rawhtml >}}
 <div class="cv">

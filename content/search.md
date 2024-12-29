@@ -1,5 +1,5 @@
 ---
 title: "Search"
 layout: "search"
-summary: "noor.guru search page"
+summary: "noor.sh search page"
 ---

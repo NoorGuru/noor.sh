@@ -57,7 +57,7 @@ languages:
           url: cv
           weight: 2
         - name: My Apps
-          url: https://go.noor.guru/apps
+          url: https://go.noor.sh/apps
           weight: 3
 
 
@@ -170,21 +170,21 @@ params:
 
   socialIcons:
     - name: linkedin
-      url: "https://go.noor.guru/linkedin"
+      url: "https://go.noor.sh/linkedin"
     - name: github
-      url: "https://go.noor.guru/github"
+      url: "https://go.noor.sh/github"
     - name: hackerrank
-      url: "https://go.noor.guru/hr"
+      url: "https://go.noor.sh/hr"
     - name: stackoverflow
-      url: "https://go.noor.guru/sof"
+      url: "https://go.noor.sh/sof"
     - name: youtube
-      url: "https://go.noor.guru/youtube"
+      url: "https://go.noor.sh/youtube"
     #    - name: youtube
-    #      url: "https://go.noor.guru/youtube-cwn"
+    #      url: "https://go.noor.sh/youtube-cwn"
     - name: twitter
-      url: "https://go.noor.guru/twitter"
+      url: "https://go.noor.sh/twitter"
     - name: email
-      url: "https://go.noor.guru/email"
+      url: "https://go.noor.sh/email"
   #    - name: KoFi
   #      url: "https://ko-fi.com/adityatelange"
   #    - name: RsS
