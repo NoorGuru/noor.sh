@@ -34,6 +34,7 @@
    Featured Project (EG Wizard)
    ============================================ */
 .projects__featured {
+  --featured-accent: hsl(20, 90%, 58%);
   position: relative;
   background: linear-gradient(135deg,
     rgba(255, 255, 255, 0.04) 0%,
@@ -48,13 +49,17 @@
   gap: var(--space-xl);
 }
 
+.projects__featured--aura {
+  --featured-accent: hsl(160, 90%, 65%);
+}
+
 .projects__featured-glow {
   position: absolute;
   top: -60%;
   right: -20%;
   width: 400px;
   height: 400px;
-  background: radial-gradient(circle, hsla(20, 90%, 58%, 0.08) 0%, transparent 70%);
+  background: radial-gradient(circle, color-mix(in srgb, var(--featured-accent) 15%, transparent) 0%, transparent 70%);
   pointer-events: none;
 }
 
@@ -75,7 +80,7 @@
   font-size: 0.75rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: hsl(20, 90%, 58%);
+  color: var(--featured-accent);
 }
 
 .projects__featured-title {
@@ -84,6 +89,48 @@
   font-weight: var(--fw-bold);
   color: var(--color-text);
   letter-spacing: -0.02em;
+}
+
+.projects__featured-title-wrapper {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+}
+
+.aura-orb {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.aura-orb__inner {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background: conic-gradient(from 0deg, var(--featured-accent), hsl(280, 90%, 65%), var(--featured-accent));
+  filter: blur(5px);
+  animation: rotate-orb 4s linear infinite;
+  opacity: 0.85;
+}
+
+.aura-orb__core {
+  position: relative;
+  width: 12px;
+  height: 12px;
+  background: #ffffff;
+  border-radius: 50%;
+  box-shadow: 0 0 12px #ffffff;
+  z-index: 1;
+}
+
+@keyframes rotate-orb {
+  0% { transform: rotate(0deg) scale(0.9); }
+  50% { transform: rotate(180deg) scale(1.1); }
+  100% { transform: rotate(360deg) scale(0.9); }
 }
 
 .projects__featured-desc {
@@ -129,8 +176,8 @@
 }
 
 .projects__arc-stage--current {
-  border-color: hsla(20, 90%, 58%, 0.4);
-  background: hsla(20, 90%, 58%, 0.06);
+  border-color: color-mix(in srgb, var(--featured-accent) 40%, transparent);
+  background: color-mix(in srgb, var(--featured-accent) 6%, transparent);
 }
 
 .projects__arc-label {
@@ -138,7 +185,7 @@
   font-size: 0.7rem;
   font-weight: var(--fw-semibold);
   letter-spacing: 0.05em;
-  color: hsl(20, 90%, 58%);
+  color: var(--featured-accent);
 }
 
 .projects__arc-detail {

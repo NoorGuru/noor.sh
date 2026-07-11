@@ -338,7 +338,7 @@
                 <span class="journey__role-eyebrow">Current Role</span>
                 <h4 class="journey__role-title">SDE III, Edge & API Platform</h4>
                 <span class="journey__role-period">Jul 2025 – Present</span>
-                <p class="journey__role-desc">Architecting AI-powered infrastructure and core platforms. Invented EG Wizard, a migration platform that became the team's 3-year strategic roadmap. Co-shaping platform vision with senior leadership.</p>
+                <p class="journey__role-desc">Architecting AI-powered infrastructure and core platforms. Invented an internal AI migration platform that became the team's 3-year strategic roadmap. Co-shaping platform vision with senior leadership.</p>
               </div>
               <div class="journey__role-card">
                 <h4 class="journey__role-title">SDE III, Partner Developer Experience</h4>
@@ -734,13 +734,75 @@
         <h2 id="projects-heading" class="projects__heading">What I've Shipped</h2>
         <p class="projects__subtitle">A few recent builds, from AI platforms to client launches.</p>
 
-        <!-- Featured project: EG Wizard -->
+        <!-- Featured project: Aura -->
+        <article class="projects__featured projects__featured--aura" data-animate="fade-up">
+          <div class="projects__featured-glow" aria-hidden="true"></div>
+          <div class="projects__featured-content">
+            <div class="projects__featured-header">
+              <span class="projects__featured-eyebrow">Flagship · AI Product</span>
+              <div class="projects__featured-title-wrapper">
+                <div class="aura-orb" aria-hidden="true">
+                  <div class="aura-orb__inner"></div>
+                  <div class="aura-orb__core"></div>
+                </div>
+                <h3 class="projects__featured-title">Aura</h3>
+              </div>
+            </div>
+            <p class="projects__featured-desc">An AI-powered stock recommendation tracker. It ingests YouTube videos via a Cloudflare Worker, analyzes transcripts with Claude to extract analyst sentiment and conviction, and serves real-time consensus scores on a public dashboard powered by Google Cloud Run and Supabase.</p>
+            <div class="projects__featured-arc" aria-label="Architecture flow">
+              <span class="projects__arc-stage">
+                <span class="projects__arc-label">Source</span>
+                <span class="projects__arc-detail">YouTube</span>
+              </span>
+              <span class="projects__arc-connector" aria-hidden="true"></span>
+              <span class="projects__arc-stage">
+                <span class="projects__arc-label">Extraction</span>
+                <span class="projects__arc-detail">Claude AI</span>
+              </span>
+              <span class="projects__arc-connector" aria-hidden="true"></span>
+              <span class="projects__arc-stage">
+                <span class="projects__arc-label">Data</span>
+                <span class="projects__arc-detail">Supabase</span>
+              </span>
+              <span class="projects__arc-connector" aria-hidden="true"></span>
+              <span class="projects__arc-stage projects__arc-stage--current">
+                <span class="projects__arc-label">App</span>
+                <span class="projects__arc-detail">Next.js 16</span>
+              </span>
+            </div>
+            <div class="projects__featured-tags">
+              <span class="projects__tag">Next.js</span>
+              <span class="projects__tag">Python</span>
+              <span class="projects__tag">FastAPI</span>
+              <span class="projects__tag">Claude</span>
+              <span class="projects__tag">Supabase</span>
+              <span class="projects__tag">Cloudflare Workers</span>
+              <span class="projects__tag">Google Cloud Run</span>
+            </div>
+          </div>
+          <div class="projects__featured-stats">
+            <div class="projects__stat">
+              <span class="projects__stat-value"><a href="https://aura.bynoor.io" target="_blank" rel="noopener" style="color: inherit; text-decoration: none; border-bottom: 1px solid var(--featured-accent); padding-bottom: 2px;">aura.bynoor.io</a></span>
+              <span class="projects__stat-label">Live Platform</span>
+            </div>
+            <div class="projects__stat">
+              <span class="projects__stat-value">Real-time</span>
+              <span class="projects__stat-label">consensus scoring</span>
+            </div>
+            <div class="projects__stat">
+              <span class="projects__stat-value">AI-Driven</span>
+              <span class="projects__stat-label">sentiment analysis</span>
+            </div>
+          </div>
+        </article>
+
+        <!-- Featured project: Enterprise Migration Platform -->
         <article class="projects__featured" data-animate="fade-up">
           <div class="projects__featured-glow" aria-hidden="true"></div>
           <div class="projects__featured-content">
             <div class="projects__featured-header">
-              <span class="projects__featured-eyebrow">Flagship · AI Platform</span>
-              <h3 class="projects__featured-title">EG Wizard</h3>
+              <span class="projects__featured-eyebrow">Internal Platform @ Expedia Group</span>
+              <h3 class="projects__featured-title">Enterprise AI Migration Platform</h3>
             </div>
             <p class="projects__featured-desc">An AI-powered migration platform that turns weeks-long framework migrations into hours. Started as a 3-day proof-of-concept, became the team's official 3-year strategic roadmap, endorsed by Senior Directors and recognized by SVP.</p>
             <div class="projects__featured-arc" aria-label="Evolution timeline">
