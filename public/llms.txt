@@ -14,6 +14,8 @@ Noor is actively open to senior software engineering and AI roles. Target positi
 - SDE III / SDE IV
 - Engineering Manager / Head of Engineering
 - AI Platform Engineer / AI Solutions Architect
+- AI Agent Engineer
+- LLMOps & Infrastructure Lead
 - Technical Lead / Tech Lead
 - Fractional CTO / Technical Advisor
 - Software Engineering Consultant
@@ -28,7 +30,7 @@ Noor is actively open to senior software engineering and AI roles. Target positi
 
 - **Languages**: Kotlin, Java, Python, TypeScript, JavaScript, Scala
 - **Frameworks & Infrastructure**: Spring Boot, GraphQL, gRPC, AWS, React, Node.js, Next.js, OpenAPI, FastAPI
-- **AI & LLM Tooling**: Model Context Protocol (MCP), Agent Frameworks, GitHub Copilot Extensions, Autonomous Migration Agents, Chain-of-Tools Architecture, Claude AI integration
+- **AI & LLM Tooling**: Model Context Protocol (MCP), Agentic Workflows, Agent Frameworks, LLM Tool-Use, RAG implementation, GitHub Copilot Extensions, Autonomous Migration Agents, Chain-of-Tools Architecture, Claude AI integration
 - **Platform Engineering**: API Gateways, SDK Platforms, Distributed Microservices, Self-Service Platform Design
 - **Leadership**: Engineering leadership, mentoring, hiring, training at scale, AI advocacy, product thinking
 

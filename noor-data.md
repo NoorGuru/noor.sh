@@ -8,7 +8,7 @@
 - **Phone:** 00962786201850
 - **Email:** moh.noor94@gmail.com
 - **Website:** https://www.bynoor.io
-- **Tagline:** Building & Leading AI-Powered Developer Platforms | SDE III at Expedia Group (ex-Amazon) | Tech & AI Advocate
+- **Tagline:** Building & Leading AI-Powered Developer Platforms | AI Agent Engineer | SDE III at Expedia Group (ex-Amazon) | Tech & AI Advocate
 
 ## Summary
 I build AI-powered tools that help engineers move faster. Currently at Expedia Group, I invented and lead EG Wizard - a platform that turned weeks-long framework migrations into hours, starting as a GitHub Copilot Extension and evolving into a full AI-native platform with autonomous agents, MCP servers, and Skills integration. It became our team's 3-year strategic roadmap, endorsed by senior leadership.
@@ -158,8 +158,8 @@ Always open to conversations about AI in developer tooling, platform engineering
 
 ## Skills
 - **Languages:** Kotlin, Java, Python, TypeScript, JavaScript, Scala
-- **Tech:** Spring Boot, GraphQL, gRPC, AWS, React, NodeJS, OpenAPI, AI/LLM tooling, MCP, Agent frameworks
-- **Areas:** SDKs, Platform Engineering, AI-native architectures, Microservices, Backend, Full-Stack
+- **Tech:** Spring Boot, GraphQL, gRPC, AWS, React, NodeJS, OpenAPI, AI/LLM tooling, Model Context Protocol (MCP), Agent frameworks, Agentic Workflows, LLM Tool-Use
+- **Areas:** SDKs, Platform Engineering, AI-native architectures, AI-Native Design, Microservices, Backend, Full-Stack
 - **Leadership:** Engineering leadership, mentoring, hiring, coaching, training, AI advocacy
 
 ## Social Links
