@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://bynoor.io/</loc>
-    <lastmod>2026-07-24</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-07-27</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://bynoor.io/profile-pic.webp</image:loc>
+      <image:title>Mohammad Noor Abu Khlaif — Software Engineer and AI Advocate</image:title>
+      <image:caption>Mohammad Noor Abu Khlaif, SDE III at Expedia Group, based in Amman, Jordan</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://bynoor.io/og-image.png</image:loc>
+      <image:title>bynoor.io — Mohammad Noor Abu Khlaif</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://bynoor.io/technical-interview-preparation-kit/</loc>
-    <lastmod>2026-07-24</lastmod>
+    <lastmod>2026-07-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
